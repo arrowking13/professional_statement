@@ -2,7 +2,7 @@
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Date             | 19/04/2025                                                                                                                                                      |
 | Entry            | 1                                                                                                                                                               |
-| Description      | Registro de incidente envolvendo ataque de ransomware via phishing em uma clínica de saúde.                                                                     |
+| Description      | Registro de incidente envolvendo ataque de ransomware via phishing em uma clínica de saúde. (Exercício proposto durante o curso Google Cybersecurity Professional)                                                                     |
 | Tool(s) used     | Nenhuma ferramenta específica mencionada até o momento.                                                                                                          |
 | Who              | Um grupo organizado de hackers que tem como alvo organizações dos setores de saúde e transporte.                                                                 |
 | What             | Um ataque de ransomware causado por e-mails de phishing com anexos maliciosos, resultando na criptografia dos arquivos dos computadores da clínica.             |
