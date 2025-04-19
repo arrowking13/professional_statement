@@ -1,0 +1,12 @@
+| Campo            | Informação                                                                                                                                                     |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Date             | 19/04/2025                                                                                                                                                      |
+| Entry            | 1                                                                                                                                                               |
+| Description      | Registro de incidente envolvendo ataque de ransomware via phishing em uma clínica de saúde.                                                                     |
+| Tool(s) used     | Nenhuma ferramenta específica mencionada até o momento.                                                                                                          |
+| Who              | Um grupo organizado de hackers que tem como alvo organizações dos setores de saúde e transporte.                                                                 |
+| What             | Um ataque de ransomware causado por e-mails de phishing com anexos maliciosos, resultando na criptografia dos arquivos dos computadores da clínica.             |
+| When             | Terça-feira pela manhã, aproximadamente às 9h.                                                                                                                    |
+| Where            | Em uma clínica de saúde nos Estados Unidos especializada em cuidados primários.                                                                                  |
+| Why              | Devido à abertura de anexos maliciosos enviados por e-mail, o que permitiu que os atacantes instalassem malware e executassem a criptografia dos arquivos.      |
+| Additional notes | O caso evidencia a necessidade de treinamento dos funcionários sobre segurança cibernética, especialmente no reconhecimento de phishing, além de backups confiáveis. |
