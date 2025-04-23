@@ -10,3 +10,17 @@
 | Where            | Em uma clínica de saúde nos Estados Unidos especializada em cuidados primários.                                                                                  |
 | Why              | Devido à abertura de anexos maliciosos enviados por e-mail, o que permitiu que os atacantes instalassem malware e executassem a criptografia dos arquivos.      |
 | Additional notes | O caso evidencia a necessidade de treinamento dos funcionários sobre segurança cibernética, especialmente no reconhecimento de phishing, além de backups confiáveis. |
+
+
+| Campo            | Informação                                                                                                                                                                                                 |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Date             | 23/04/2025                                                                                                                                                                                                |
+| Entry            | 2                                                                                                                                                                                                         |
+| Description      | Investigação de alerta de phishing envolvendo o download de anexo malicioso em computador de funcionário. (Exercício proposto durante o curso Google Cybersecurity Professional)                        |
+| Tool(s) used     | Sistema de gerenciamento de alertas, análise de hash (ex: VirusTotal), antivírus, gateway de segurança de e-mails                                                                                         |
+| Who              | Ator malicioso externo tentando se passar por uma entidade confiável para induzir o clique e a execução de anexo malicioso                                                                                |
+| What             | Um e-mail de phishing foi recebido por um funcionário. O anexo foi baixado e, após análise do hash, foi confirmado que se tratava de um arquivo malicioso.                                                |
+| When             | Data e horário conforme registro no ticket de alerta. O evento foi registrado recentemente no ambiente da organização.                                                                                    |
+| Where            | Estação de trabalho de um funcionário na rede interna da empresa de serviços financeiros                                                                                                                  |
+| Why              | A campanha de phishing conseguiu passar pelos filtros iniciais de e-mail e o funcionário não identificou o risco, resultando no download do anexo                                                        |
+| Additional notes | A severidade do alerta foi classificada como **Alta**. O remetente apresentava inconsistência entre nome e e-mail. O anexo era um `.zip` que extraía um `.exe`. Seguir com o playbook de resposta.        |
